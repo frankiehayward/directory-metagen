@@ -18,7 +18,7 @@
     "codacy-coverage": "^2.0.1",
     "codeclimate-test-reporter": "^0.4.1",
     "coveralls": "^2.11.16",
-    "danger": "^0.15.0",
+    "danger": "^0.19.0",
     "mocha": "^3.2.0",
     "mocha-lcov-reporter": "^1.2.0",
     "mock-fs": "^4.0.0",
